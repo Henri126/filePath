@@ -1,0 +1,14 @@
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\bin\Debug\net8.0\filePath.exe
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\bin\Debug\net8.0\filePath.deps.json
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\bin\Debug\net8.0\filePath.runtimeconfig.json
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\bin\Debug\net8.0\filePath.dll
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\bin\Debug\net8.0\filePath.pdb
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.dll
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\refint\filePath.dll
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.pdb
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\ref\filePath.dll
