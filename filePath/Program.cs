@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Numerics;
 
 namespace filePath
 {
@@ -8,8 +9,32 @@ namespace filePath
         {
             Console.WriteLine("kõik laulusõnad");
 
-            DisplayThisFile();
+            //&DisplayThisFile();
+
+            FindWord("Hallo");
         }
+
+        public static void FindWord(string findThisWord)
+        {
+            using (StreamReader readFile = new StreamReader(
+                "C:\\Users\\opilane\\Source\\Repos\\Henri126\\filePath\\filePath\\hh.txt"
+              ))
+            {
+                int lnr = 0;
+                while (readFile.EndOfStream == false)
+                {
+                    string line = readFile.ReadLine();
+                    lnr++;
+                    
+                    if (line.Contains(findThisWord) == true)
+                    {
+                        Console.WriteLine(findThisWord + "leiti reast" + lnr);
+                    }
+                }
+                readFile.Close();
+            }
+        }
+
 
         private static void DisplayThisFile()
         {

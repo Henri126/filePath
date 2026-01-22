@@ -12,3 +12,4 @@ C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\refint
 C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.pdb
 C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.genruntimeconfig.cache
 C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\ref\filePath.dll
+C:\Users\opilane\Source\Repos\Henri126\filePath\filePath\obj\Debug\net8.0\filePath.sourcelink.json
